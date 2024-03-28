@@ -8,11 +8,11 @@ python flask application, PostgreSQL and pgadmin being used.
 Clone the repository to your server.
 
 # Step 2:
-Do any change if you need into the docker compose.yml file
+Do any change if you need into the docker-compose.yml file
 
 # Step 3:
 Execute this command to spin up the containers.
-'docker-compose up -d'
+'docker compose up -d'
 
 # Step 4:
 Check the containers if everything fine
